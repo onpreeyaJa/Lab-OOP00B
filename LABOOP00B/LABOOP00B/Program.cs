@@ -19,3 +19,6 @@ student4.weight = 85;
 
 float avgWeight = (student1.weight + student2.weight + student3.weight + student4.weight) / 4;
 Console.WriteLine("Weight avg of Student: " + avgWeight);
+Console.WriteLine("Weight max of Student: " + student4.weight + student4.name);
+Console.WriteLine("Weight min of Student: " + student3.weight + student3.name);
+Console.WriteLine("อรปรียา จันทะโคตร 653450107-5");
